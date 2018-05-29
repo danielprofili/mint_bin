@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -jar ~/bin/checkstyle-6.18-all.jar -c ~/bin/CS1332-checkstyle.xml $1
